@@ -1,0 +1,7 @@
+#custum_direct_list|no_dns_leak
+
+DOMAIN,p.tencentmusic.com,no-resolve
+DOMAIN,api.tencentmusic.com,no-resolve
+DOMAIN-KEYWORD,xescdn,no-resolve
+DOMAIN-KEYWORD,eaydu,no-resolve
+DOMAIN-KEYWORD,speiyou,no-resolve
