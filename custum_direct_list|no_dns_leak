@@ -1,7 +1,7 @@
-#custum_direct_list|no_dns_leak
+#custum_direct_list|no_dns_leak Use with no leak config
 
-DOMAIN,p.tencentmusic.com,no-resolve
-DOMAIN,api.tencentmusic.com,no-resolve
-DOMAIN-KEYWORD,xescdn,no-resolve
-DOMAIN-KEYWORD,eaydu,no-resolve
-DOMAIN-KEYWORD,speiyou,no-resolve
+DOMAIN,p.tencentmusic.com
+DOMAIN,api.tencentmusic.com
+DOMAIN-KEYWORD,xescdn
+DOMAIN-KEYWORD,eaydu
+DOMAIN-KEYWORD,speiyou
