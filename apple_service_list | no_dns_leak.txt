@@ -1,0 +1,10 @@
+﻿#Apple直连服务
+DOMAIN-SUFFIX,apple-mapkit.com,no-resolve
+DOMAIN-SUFFIX,push-apple.com.akadns.net,no-resolve
+DOMAIN-SUFFIX,apple.com.cn,no-resolve
+DOMAIN-SUFFIX,cn.apple.com,no-resolve
+DOMAIN-SUFFIX,gs-loc-cn.apple.com,no-resolve
+DOMAIN-SUFFIX,api.smoot.apple.cn,no-resolve
+DOMAIN-SUFFIX,cn.ls.apple.com,no-resolve
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com,no-resolve
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com,no-resolve
