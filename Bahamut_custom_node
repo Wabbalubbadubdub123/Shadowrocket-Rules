@@ -1,6 +1,6 @@
 #Bahamut_rules_noleak
 DOMAIN,bahamut.akamaized.net
-DOMAIN,bahamut.com.tw
+DOMAIN_SUFFIX,bahamut.com.tw
 DOMAIN_SUFFIX,digicert.com
 DOMAIN_SUFFIX,gamer.com.tw
 DOMAIN_SUFFIX,gvt1.com
