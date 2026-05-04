@@ -1,0 +1,4 @@
+#custom-reject-list
+DOMAIN-SUFFIX,ads-api.x.com
+DOMAIN,adcdn6.tencentmusic.com
+DOMAIN,metrics.icloud.com
