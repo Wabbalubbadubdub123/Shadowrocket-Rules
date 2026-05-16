@@ -14,5 +14,7 @@ DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,ipcdn.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN,entitlements.itunes.apple.com
-DOMAIN-SUFFIX,stats.gc.apple.com
+DOMAIN-SUFFIX,gc.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,xp.apple.com
