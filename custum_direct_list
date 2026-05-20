@@ -1,7 +1,7 @@
 #custum_direct_list|no_dns_leak Use with no leak config
 
 DOMAIN,p.tencentmusic.com
-DOMAIN,api.tencentmusic.com
+DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-KEYWORD,xescdn
 DOMAIN-KEYWORD,eaydu
 DOMAIN-KEYWORD,speiyou
@@ -14,3 +14,4 @@ DOMAIN-KEYWORD,wjx
 DOMAIN-KEYWORD，doubao
 DOMAIN-SUFFIX，lsfd.miraheze.org
 DOMAIN-SUFFIX，deepseek.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
