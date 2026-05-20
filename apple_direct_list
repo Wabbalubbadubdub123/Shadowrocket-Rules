@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
