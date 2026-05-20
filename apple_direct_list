@@ -1,4 +1,4 @@
-﻿#Apple选择性直连服务-地图/appstore
+﻿#Apple选择性直连服务
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,apple.com.cn
@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,devimages-cdn.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,apps-marketplace.apple.com
