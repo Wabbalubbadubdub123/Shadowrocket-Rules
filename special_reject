@@ -1,7 +1,0 @@
-#特别拦截
-
-#qq音乐
-DOMAIN,wns6.kg.qq.com
-DOMAIN,wnsop.twns.qq.com
-DOMAIN,szmg.qq.com
-DOMAIN-SUFFIX,y.qq.com
