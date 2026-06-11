@@ -1,14 +1,4 @@
 #custom-reject-list
 DOMAIN-SUFFIX,ads-api.x.com
 DOMAIN,adcdn6.tencentmusic.com
-DOMAIN,wns.y.qq.com
-DOMAIN,shu6.y.qq.com
-DOMAIN,szu6.y.qq.com
 DOMAIN,stat6.y.qq.com
-DOMAIN,c6.y.qq.com
-DOMAIN,szc6.y.qq.com
-DOMAIN,t.y.qq.com
-DOMAIN,wns6.kg.qq.com
-DOMAIN,wnsop.twns.qq.com
-DOMAIN,szmg.qq.com
-DOMAIN,i.y.qq.com
