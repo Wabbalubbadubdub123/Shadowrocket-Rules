@@ -324,3 +324,5 @@ DOMAIN,1-courier.sandbox.push.apple.com
 DOMAIN,lcdn-registration.apple.com
 DOMAIN,st11p01su-lcdnreg.isu.apple.com.akadns.net
 DOMAIN,facetime-apple-com.we.apple-dns.net
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push.apple.com
