@@ -319,3 +319,7 @@ DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,music.apple.com
 USER-AGENT,Music*
+DOMAIN,1-courier.push.apple.com
+DOMAIN,1-courier.sandbox.push.apple.com
+DOMAIN,lcdn-registration.apple.com
+DOMAIN,st11p01su-lcdnreg.isu.apple.com.akadns.net
