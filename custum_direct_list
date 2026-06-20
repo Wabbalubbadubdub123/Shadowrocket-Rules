@@ -326,3 +326,6 @@ DOMAIN,st11p01su-lcdnreg.isu.apple.com.akadns.net
 DOMAIN,facetime-apple-com.we.apple-dns.net
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN,swscan.apple.com
+DOMAIN,swdist.apple.com
