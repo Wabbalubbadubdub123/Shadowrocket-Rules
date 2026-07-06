@@ -366,3 +366,5 @@ DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN,swscan.apple.com
 DOMAIN,swdist.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
