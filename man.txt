@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,thumb.live.mmcdn.com
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,client-rapi-missav.recombee.com
