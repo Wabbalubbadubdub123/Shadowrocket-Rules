@@ -32,9 +32,6 @@ DOMAIN,crl.starfieldtech.com
 DOMAIN,crl.usertrust.com
 DOMAIN,crl3.digicert.com
 DOMAIN,crl4.digicert.com
-DOMAIN,googleapis.com
-DOMAIN,googletagmanager.com
-DOMAIN,gstatic.com
 DOMAIN,ocsp.comodoca.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.godaddy.com
