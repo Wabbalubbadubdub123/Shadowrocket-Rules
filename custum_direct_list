@@ -375,6 +375,9 @@ DOMAIN,swscan.apple.com
 DOMAIN,swdist.apple.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
+# apple imessage verification
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN,llpush.apple.com
 
 
 # NAME: Alibaba
