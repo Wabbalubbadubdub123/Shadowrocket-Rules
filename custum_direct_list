@@ -41,6 +41,7 @@ DOMAIN,api.onedrive.com
 DOMAIN,my.microsoftpersonalcontent.com
 DOMAIN,roaming.officeapps.live.com
 DOMAIN,download.microsoft.com
+DOMAIN,attachment.outlook.live.net
 
 
 # NAME: JingDong
