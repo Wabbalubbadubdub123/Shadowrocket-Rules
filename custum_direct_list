@@ -40,6 +40,8 @@ DOMAIN-KEYWORD,kimi
 DOMAIN,api.onedrive.com
 DOMAIN,my.microsoftpersonalcontent.com
 DOMAIN,roaming.officeapps.live.com
+DOMAIN,download.microsoft.com
+
 
 # NAME: JingDong
 # AUTHOR: blackmatrix7
