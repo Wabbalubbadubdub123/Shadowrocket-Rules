@@ -3,8 +3,9 @@
 DOMAIN,p.tencentmusic.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-KEYWORD,xescdn
+DOMAIN-SUFFIX,xesimg.com
 DOMAIN-KEYWORD,eaydu
-DOMAIN-KEYWORD,speiyou
+DOMAIN-SUFFIX,speiyou.com
 DOMAIN-SUFFIX,xxpie.com
 DOMAIN-SUFFIX,omofuna.com
 DOMAIN-KEYWORD,kognity
