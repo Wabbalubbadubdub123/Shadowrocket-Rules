@@ -135,6 +135,7 @@ DOMAIN,attachment.outlook.live.net
 DOMAIN,outlook.office365.com
 DOMAIN,graph.microsoft.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,cdn.storeedgefd.dsx.mp.microsoft.com
 
 # NAME: JingDong
 # AUTHOR: blackmatrix7
