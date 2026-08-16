@@ -125,6 +125,9 @@ IP-CIDR,65.199.22.0/23,no-resolve
 # apple imessage verification
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN,llpush.apple.com
+DOMAIN,cdsassets.apple.com
+DOMAIN,sse-ws.apple.com
+DOMAIN-SUFFIX,support.apple.com
 
 
 # onedrive desktop client & app direct 
