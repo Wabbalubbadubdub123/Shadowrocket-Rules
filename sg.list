@@ -54,6 +54,9 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN,notebook.google.com
+DOMAIN,notebooklm.google
+DOMAIN,notebooklm.google.com
 #antigravity
 DOMAIN-KEYWORD,antigravity
 DOMAIN-SUFFIX,antigravity-unleash.goog
